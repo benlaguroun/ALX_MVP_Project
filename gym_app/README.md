@@ -23,7 +23,7 @@ To run the Gym App locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/gym-app.git
+   git clone https://github.com/benlaguroun/gym-app.git
    ```
 
 2. Navigate to the project directory:
